@@ -19,8 +19,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "MobWithAdMobAdapter",
-            url: "https://github.com/mobon/MobWithAdMobAdapter_iOS/releases/download/1.0.0/MobWithAdMobAdapter.xcframework.zip",
-            checksum: "<swift package compute-checksum 결과>"
+            url: "https://github.com/showthat/SPMTest/releases/download/admob-1.0.0/MobWithAdMobAdapter.xcframework.zip",
+            checksum: "b016716031de26425f5be67e5e0ca06f742a1bb3be18e1a7e1976e9b8a81bc1e"
         ),
         .target(
             name: "MobWithAdMobAdapterTarget",
